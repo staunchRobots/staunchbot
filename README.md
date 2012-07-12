@@ -1,0 +1,4 @@
+staunchbot
+==========
+
+Staunch Hubot
